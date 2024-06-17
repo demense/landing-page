@@ -24,3 +24,35 @@ ul {
     color: #E5E7EB;
     font-size: 18px;
 }
+
+.hero {
+    background-color: #1F2937;
+}
+
+.hero-right-side {
+    display: flex;
+    flex-direction: column;
+    width: 360px;
+    
+}
+
+.hero-title {
+    margin: 0px;
+    font-size: 48px;
+    color: #F9FAF8;
+}
+
+.hero-subtext {
+    color: #E5E7EB;
+    margin: 3px 0px 10px 0px;
+}
+
+.hero-button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-weight: bold;
+    width: 100px;
+    padding: 7px;
+    border-radius: 10px;
+    border: 0px;
+}
