@@ -1,0 +1,26 @@
+html, body {
+    height: 100vh;
+    width: 100vw;
+    margin: 0px;
+}
+
+div.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #1F2937;
+}
+
+.header-logo {
+    font-size: 24px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
