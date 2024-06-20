@@ -129,6 +129,26 @@ ul {
 }
 
 .quote {
-    height: 430px;
+    height: 428px;
     background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #1F2937;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    width: 788px;
+}
+
+.quote-author {
+    display: flex;
+    justify-content: flex-end;
+    width: 660px;
+    font-size: 24px;
+    font-weight: 700;
 }
