@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# The Odin Project - Landing Page
 
 This is my attempt to do [Project: Landing Page on The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page). This project helped me improve me coding skills by building a realistic project. 
 
